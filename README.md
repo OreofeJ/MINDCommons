@@ -21,12 +21,12 @@ MINDCommons explores a complementary approach built around two foundational capa
 
 The initial technical portfolio consists of two complementary MVPs.
 
-### 1. HDC — Health Data Consent
+### 1. HDC: Health Data Consent
 <img width="1416" height="1860" alt="HDC" src="https://github.com/user-attachments/assets/7e1d4568-9f8d-4820-ab20-84612cf65270" />
 
 [Explore HDC](./projects/hdc/)
 
-HDC is a consent-management and verification prototype focused on individual, purpose-specific consent.
+HDC is a consent management and verification prototype focused on individual, purpose-specific consent.
 
 Its initial capabilities include:
 
@@ -38,7 +38,7 @@ Its initial capabilities include:
 
 **Current status:** Early-stage frontend system. 
 
-### 2. DataTrust Gate — Health Data Access Governance
+### 2. DataTrust Gate: Health Data Access Governance
 <img width="1892" height="861" alt="dtg" src="https://github.com/user-attachments/assets/8218c750-2918-4e1e-9938-c414099f34dd" />
 
 [Explore DataTrust Gate](./projects/datatrust-gate/)
