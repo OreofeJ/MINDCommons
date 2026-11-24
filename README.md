@@ -134,4 +134,4 @@ For research collaboration, technical discussions or partnership enquiries, plea
 
 ---
 
-**MINDCommons — Towards community-centred, accountable and responsible health-data governance.**
+**MINDCommons is working towards community centred and responsible health data governance.**
