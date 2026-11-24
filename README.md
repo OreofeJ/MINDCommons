@@ -1,7 +1,7 @@
 # MINDCommons
-### Community centred health-data governance and privacy infrastructure
-
 ###  What if communities can exercise agency over responsible use of sensitive health data?
+###  Can Community centred health data governance and privacy infrastructure be a collective responsibly?
+
 MINDCommons is an initiative exploring how communities can exercise meaningful agency over the collection, access, governance and responsible use of sensitive health data, particularly in underserved African contexts.
 
 The project focuses on developing practical, transparent and reusable digital infrastructure that supports individual consent, accountable data access and community-centred governance.
